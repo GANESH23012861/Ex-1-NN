@@ -1,7 +1,7 @@
- <H3>ENTER YOUR NAME :  selvaganesh R</H3>
-<H3>ENTER YOUR REGISTER NO : 212223230200</H3>
-<H3>EX. NO.1</H3>
-<H3>DATE : 21/08/2025</H3>
+ <H3>ENTER YOUR NAME       : selvaganesh R KV</H3>
+<H3>ENTER YOUR REGISTER NO:212223230200</H3>
+<H3>EX.NO:1</H3>
+<H3>DATE : 02-09-2025</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
@@ -78,30 +78,23 @@ print("Lenght of X_test ",len(X_test))
 
 ```
 
-
 ## OUTPUT:
-### Dataset:
-![images](https://github.com/user-attachments/assets/7d7aaae0-826d-4cae-bbd8-a2287d7de089)
+### DATASET:
+![image](https://github.com/user-attachments/assets/4e75215a-6909-47e8-be89-f1b0dcf64069)
 
-### X Values:
-![images](https://github.com/user-attachments/assets/18342c94-abef-4229-b26d-0acdb5c58626)
-### Y Values:
-![images](https://github.com/user-attachments/assets/52944df9-1956-4e6a-bfab-ad0f187142ed)
-### Null Values:
-![images](https://github.com/user-attachments/assets/42d3958f-90c9-4e02-9cac-40289956eaa0)
-### Duplicated Values:
-![images](https://github.com/user-attachments/assets/aa48c2ba-8d64-4d60-b941-21c8d9bd3c21)
-### Description:
-![images](https://github.com/user-attachments/assets/2e70d654-8a26-419f-8cb0-46b4d84a033c)
-### Normalized Dataset:
-![](https://github.com/user-attachments/assets/1b0ea631-5c44-476d-bee6-2a8ddcdabb98)
-### Training Data:
-![](https://github.com/user-attachments/assets/3c91a26c-f398-4253-a2ed-e6acac6ef78a)
-### Testing Data:
-![](https://github.com/user-attachments/assets/679b8a7b-057e-4bdb-ac4c-3da60c7aa258)
-![image](https://github.com/user-attachments/assets/9e77edeb-3c45-4eb7-a5ca-88bea4b9418e)
+### NULL VALUES: 
+![image](https://github.com/user-attachments/assets/1a4ab591-3115-42e5-88c6-c2356d1175b5)
 
-## RESULT:
-Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
+### NORMALIZED DATA:
+![image](https://github.com/user-attachments/assets/27a5d162-c488-42b5-b5b9-fe563cf3062c)
+### DATA SPLITTING:
+![image](https://github.com/user-attachments/assets/e5154e4d-b3f4-444e-9d20-5a3d908c4797)
+![image](https://github.com/user-attachments/assets/6d65b734-6632-4fa7-aa91-39c6feb88e5e)
+
+### TRAIN AND TEST DATA:
+![image](https://github.com/user-attachments/assets/8716f8a6-4f08-42ea-9c6a-1b86bb38ae00)
+![image](https://github.com/user-attachments/assets/4214bcfc-f2c1-4f69-b7b0-6ead12703483)
+![image](https://github.com/user-attachments/assets/f219a314-14c7-4921-a631-df59b3c46301)
+![image](https://github.com/user-attachments/assets/025abc61-60a1-4f7d-b8ca-40210b03f7f4)
 
 
